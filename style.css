@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.main-menu li{
+	display:inline-block;
+	text-align:left;
+}
+
+.main-menu li a{
+padding:2px 15px;
+color: black;
+border-radius: 5px;
+margin:2px;
+display:inline-block;
+border:1px solid rgb(245, 216, 216);
+text-decoration: none;
+}
+
+div{
+	text-align:right;
+	background-image: url(01.jpeg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+
+.main-menu li a:hover{
+	background: skyblue;
+	
+}
+
+.tagline{
+	text-align: left;
+	margin-top: 205px;
+	padding:39px;
+	margin-left: -39px;
+	font-size: 40px;
+	padding-bottom: 70px;
+	padding-left: 60px;
+	color: rgb(57, 232, 255);
+	
+}
+
+.we{
+	text-align: center;
+	padding-top:200px;
+	padding-bottom: 4px;
+	font-size: 20px;
+}
